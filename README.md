@@ -1,4 +1,4 @@
-# 🇴🇲 Visit Oman project: Discover & Plan
+# Visit Oman project: Discover & Plan
 
 A comprehensive tourism platform that combines a modern discovery experience with an intelligent itinerary generator. Built for the **CODESTACKER 2026 Frontend Development Challenge**, aligned with **Oman Vision 2040**.
 
