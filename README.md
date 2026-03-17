@@ -109,8 +109,6 @@ This platform addresses key tourism challenges in Oman:
 
 ## 🧠 Itinerary Generation Algorithm
 
-### Multi-Objective Scoring
-
 ### Multi-Objective Scoring Model
 
 score(i) =
